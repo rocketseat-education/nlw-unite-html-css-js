@@ -10,6 +10,15 @@
 
 
 # CSS
+Cascading StyleSheet
+
+```css
+/* declarações */
+body {
+  background-color: #121214;
+  color: #ffffff;
+}
+```
 
 # JavaScript
 ```js
